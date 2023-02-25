@@ -15,6 +15,9 @@ See [random_bot.py](random_bot.py) and [user_bot.py](user_bot.py) for API exampl
 1. Player should use provided `check` function to check for object at the desired position.
 1. Player may check for current level number, but we advice to generalize your code.
 1. Player should not use any global data or state.
+//НЕНУЖНЫЙ КОММИТ 1.1
+
+
 
 ## API
 Player's action is:
