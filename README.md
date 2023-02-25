@@ -17,7 +17,7 @@ See [random_bot.py](random_bot.py) and [user_bot.py](user_bot.py) for API exampl
 1. Player should not use any global data or state.
 //НЕНУЖНЫЙ КОММИТ 1.1
 //НЕНУЖНЫЙ КОММИТ 2.2
-
+//НЕНУЖНЫЙ КОММИТ 3.3
 
 ## API
 Player's action is:
