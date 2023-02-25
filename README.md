@@ -19,6 +19,8 @@ See [random_bot.py](random_bot.py) and [user_bot.py](user_bot.py) for API exampl
 //НЕНУЖНЫЙ КОММЕНТАРИЙ 2
 //НЕНУЖНЫЙ КОММЕНТАРИЙ 3
 //Изменение повторного репозитория 1
+//Изменение повторного репозитория 2
+
 
 ## API
 Player's action is:
